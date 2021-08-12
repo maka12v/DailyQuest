@@ -1,5 +1,5 @@
 ## DailyQuest
-- DailyQuest jest to skrypt, który jak sama nazwa wskazuje, polega na dziennych zadaniach które co 24h są zmieniane :D 
+DailyQuest jest to skrypt, który jak sama nazwa wskazuje, polega na dziennych zadaniach które co 24h są zmieniane :D 
 # Co potrzebuje DailyQuest do poprawnego działania?
 - Skript (Testowana wersja 2.5.3)
 - SkQuery (Testowana wersja 4.1.4)
