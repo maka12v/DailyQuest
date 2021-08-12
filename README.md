@@ -9,6 +9,7 @@ DailyQuest jest to skrypt, który jak sama nazwa wskazuje, polega na dziennych z
 ## Jakie komendy aktualnie posiada DailyQuest?
 Gracze:
 - /zadania  - Otwiera GUI, w którym możemy sprawdzić zadania
+
 Administracja:
 - /nastepnezadanie [Permisja: zadania.nastepne] - Awaryjna komenda na ustawienie następnej puli zadań
 - /zadaniareset [Permisja: zadania.reset] - Awaryjna komenda na zrestartowanie SWOICH zadań
