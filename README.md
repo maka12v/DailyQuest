@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DailyQuest
 - DailyQuest jest to skrypt, który jak sama nazwa wskazuje, polega na dziennych zadaniach które co 24h są zmieniane :D 
 ## Co potrzebuje DailyQuest do poprawnego działania?
@@ -6,6 +7,16 @@
 - [WolfSk (Testowana wersja 1.5.00)] (https://www.spigotmc.org/resources/wolfsk.77943/)
 - [Vault] (https://www.spigotmc.org/resources/vault.34315/?__cf_chl_jschl_tk__=pmd_1b089ca95e1f744d6aaf188000f45eb665513731-1628264500-0-gqNtZGzNAeKjcnBszQZ6)
 ## Jakie komendy aktualnie posiada DailyQuest?
+=======
+## DailyQuest
+DailyQuest jest to skrypt, który jak sama nazwa wskazuje, polega na dziennych zadaniach które co 24h są zmieniane :D 
+# Co potrzebuje DailyQuest do poprawnego działania?
+- Skript (Testowana wersja 2.5.3)
+- SkQuery (Testowana wersja 4.1.4)
+- WolfSk (Testowana wersja 1.5.00)
+- Vault
+# Jakie komendy aktualnie posiada DailyQuest?
+>>>>>>> 9b2fd7d2ee4ea141b6745ee6d913b4edd32427f4
 Gracze:
 - /zadania  - Otwiera GUI, w którym możemy sprawdzić zadania
 Administracja:
