@@ -3,9 +3,9 @@
 - DailyQuest jest to skrypt, który jak sama nazwa wskazuje, polega na dziennych zadaniach które co 24h są zmieniane :D 
 ## Co potrzebuje DailyQuest do poprawnego działania?
 - [Skript (Testowana wersja 2.5.3)](https://github.com/SkriptLang/Skript/releases) 
-- [SkQuery (Testowana wersja 4.1.4)] (https://www.spigotmc.org/resources/skquery-1-9-1-16.36631/?__cf_chl_jschl_tk__=pmd_f222a7f7b1b0fa15fb86280649aa89d515cc0ec3-1628766827-0-gqNtZGzNAfijcnBszQi6)
-- [WolfSk (Testowana wersja 1.5.00)] (https://www.spigotmc.org/resources/wolfsk.77943/)
-- [Vault] (https://www.spigotmc.org/resources/vault.34315/?__cf_chl_jschl_tk__=pmd_1b089ca95e1f744d6aaf188000f45eb665513731-1628264500-0-gqNtZGzNAeKjcnBszQZ6)
+- [SkQuery (Testowana wersja 4.1.4)](https://www.spigotmc.org/resources/skquery-1-9-1-16.36631/?__cf_chl_jschl_tk__=pmd_f222a7f7b1b0fa15fb86280649aa89d515cc0ec3-1628766827-0-gqNtZGzNAfijcnBszQi6)
+- [WolfSk (Testowana wersja 1.5.00)](https://www.spigotmc.org/resources/wolfsk.77943/)
+- [Vault](https://www.spigotmc.org/resources/vault.34315/?__cf_chl_jschl_tk__=pmd_1b089ca95e1f744d6aaf188000f45eb665513731-1628264500-0-gqNtZGzNAeKjcnBszQZ6)
 ## Jakie komendy aktualnie posiada DailyQuest?
 =======
 ## DailyQuest
@@ -42,4 +42,4 @@ Bardzo prosta sprawa! Wystarczy po wgraniu skryptu wpisać /sk reload [tak_jak_n
 Jeśli masz któreś z pytań zapraszam na mojego discorda: maka12#1234
 (Na wszystkie pytania odpowiem :D)
 ## Pobieranie
-[Download] (https://github.com/maka12v/DailyQuest/releases/tag/v1.0)
+[Download](https://github.com/maka12v/DailyQuest/releases/tag/v1.0)
