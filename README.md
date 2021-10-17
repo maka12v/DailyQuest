@@ -30,7 +30,7 @@ Aktualnie zadania zmieniają się codziennie o 16:00.
 ## Dobra, ale jak to skonfigurować na serwerze?
 Bardzo prosta sprawa! Wystarczy po wgraniu skryptu wpisać /sk reload [tak_jak_nazwales_plik] następnie wystarczy wyjść i wejść do serwera by wszystko ładnie się skonfigurowało. (Osoby bez opa automatycznie zostaną wyrzuceni jednak osoby z opem muszą sami wyjść)
 ## Coś nie działa/masz jakiś pomysł na następne wersje?
-Jeśli masz któreś z pytań zapraszam na mojego discorda: maka12#1234
+Jeśli masz któreś z pytań zapraszam na mojego discorda: maka12#0086
 (Na wszystkie pytania odpowiem :D)
 ## Pobieranie
 [Download](https://github.com/maka12v/DailyQuest/releases/tag/v1.0)
